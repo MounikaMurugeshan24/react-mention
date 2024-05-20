@@ -1,0 +1,22 @@
+
+.suggestion-item{
+    border: 1px solid #d7d7d7;
+    background: white;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.custom-input-suggestions{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    z-index: 999;
+    max-height: 150px;
+    overflow-y: auto;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    background: #ebebeb;
+    padding: 5px;
+}
